@@ -1,4 +1,4 @@
 def divide(first, second):
     if second == 0:
-        return 'Делить на 0 нельзя!'
+        return 'Р”РµР»РёС‚СЊ РЅР° 0 РЅРµР»СЊР·СЏ!'
     return first / second
